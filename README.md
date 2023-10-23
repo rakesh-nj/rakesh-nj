@@ -1,4 +1,4 @@
-### Hi there 👋 , I am Rakesh N J
+## Hi there 👋 , I am Rakesh N J
 
 <!--
 **rakesh-nj/rakesh-nj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a tech enthusiast interested in backend web development and machine learning .
+I'm a passionate backend developer with a keen interest in machine learning. I enjoy building robust and efficient server-side applications. 
