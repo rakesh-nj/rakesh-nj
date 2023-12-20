@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 I'm a passionate backend developer with a keen interest in machine learning. I enjoy building robust and efficient server-side applications. 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rakesh-nj&show_icons=true&theme=tokyonight)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rakesh-nj&show_icons=true&theme=tokyonight)  \
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh-nj&layout=donut-vertical)](https://github.com/rakesh-nj/github-readme-stats)
